@@ -1,5 +1,5 @@
 {
-  "name": "typescript-module-starter",
+  "name": "ts-starter",
   "version": "0.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -13,15 +13,7 @@
     "test:cover": "npm run test && open coverage/index.html",
     "prepublish": "npm run clean && npm run lint && npm run build"
   },
-  "keywords": [
-    "karma",
-    "typescript",
-    "jasmine",
-    "istanbul",
-    "webpack",
-    "coverage"
-  ],
-  "author": "Muhammed Thanish <mnmtanish@gmail.com> (http://thanish.me/)",
+  "author": "Anonymous",
   "license": "MIT",
   "devDependencies": {
     "@types/jasmine": "^2.8.9",

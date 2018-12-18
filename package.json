@@ -1,7 +1,7 @@
 {
   "name": "ts-starter",
   "version": "0.0.0",
-  "description": "",
+  "description": "A bare minimum starter repository for writing and testing browser modules using typescript.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "scripts": {
